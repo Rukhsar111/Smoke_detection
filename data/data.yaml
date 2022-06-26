@@ -1,0 +1,5 @@
+train: Wildfire Smoke.v1-raw.yolov5pytorch\train\images
+val:  Wildfire Smoke.v1-raw.yolov5pytorch\valid\images
+
+nc: 1
+names: ['smoke']
